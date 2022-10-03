@@ -3,3 +3,4 @@ vv edit
 How are you?
 echo 'hello world';
 function foo();
+cons SIX_LINE = '6';
