@@ -2,3 +2,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 vv edit
 How are you?
 echo 'hello world';
+function foo();
